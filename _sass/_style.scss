@@ -14,6 +14,7 @@ table {
     border-collapse: collapse;
 }
 a {
+  font-size: 18px;
   color: #0000ee;
   text-decoration: none;
   &:hover {
@@ -28,6 +29,7 @@ a {
 .a-blank {
   color: #0366d6;
   text-decoration: none;
+  font-size: 16px;
   &:hover {
     text-decoration: underline;
   }
