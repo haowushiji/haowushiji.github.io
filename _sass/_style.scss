@@ -1,0 +1,34 @@
+
+header {
+  max-width: 980px;
+  margin: 0 auto;
+  font-size: 16px;
+  padding: 0 16px;
+}
+footer {
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 0 16px;
+}
+table {
+    border-collapse: collapse;
+}
+a {
+  color: #0000ee;
+  text-decoration: none;
+  &:hover {
+    text-decoration: underline;
+  }
+}
+.container {
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 0 16px;
+}
+.a-blank {
+  color: #0366d6;
+  text-decoration: none;
+  &:hover {
+    text-decoration: underline;
+  }
+}
